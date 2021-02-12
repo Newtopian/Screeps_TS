@@ -1,3 +1,14 @@
+# My notes :
+
+* Gut the actual code and replace typing info with
+  https://github.com/screepers/typed-screeps
+
+* update the build code with content from
+  https://github.com/screepers/screeps-typescript-starter
+
+* Try some simple stuff to see if it all works. repro the tutorial
+
+
 # screeps-starter
 
 > Starter kit for [TypeScript](http://www.typescriptlang.org/)-based [Screeps](https://screeps.com/) AI codes.
